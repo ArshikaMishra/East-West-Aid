@@ -1,5 +1,5 @@
 # East-West-Aid
-Getting Started with Create React App
+<h1>Getting Started with Create React App</h1>
 This project was bootstrapped with Create React App.
 
 Available Scripts
